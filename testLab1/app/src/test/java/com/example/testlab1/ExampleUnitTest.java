@@ -17,4 +17,7 @@ public class ExampleUnitTest {
 
     @Test
     public void multiplication_isCorrect() { assertEquals(9, 3 * 3); }
+
+    @Test
+    public void division_isCorrect() { assertEquals(4, 8 / 2); }
 }
